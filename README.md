@@ -7,7 +7,7 @@ Kaggle Data - https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 
 The notebook displays:
 
-EDA
-Feature Engineering
-GeoSpatial Analysis
-Modeling
+1. EDA
+2. Feature Engineering
+3. GeoSpatial Analysis
+4. Modeling
